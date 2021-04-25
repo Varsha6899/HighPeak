@@ -3,6 +3,5 @@
 3. Give run ,enter required number of employees on output at right handside 
 4. results are out 
 
-for video
-1.Click on the file "TaskVideo"
-2.if incase its not working ,click on "View Raw" and download the video file.
+
+https://user-images.githubusercontent.com/65886536/115997436-b7469880-a600-11eb-9799-c8e614c19ce3.mp4
